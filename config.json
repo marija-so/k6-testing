@@ -1,0 +1,4 @@
+{
+	"authService_url": "https://auth-service-staging.qa.spoton.sh/api/v1",
+  "theseus_url": "https://theseus-staging.qa.spoton.sh/api"
+}
